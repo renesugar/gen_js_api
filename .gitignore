@@ -2,3 +2,4 @@
 _build
 gen_js_api.install
 _opam
+.vscode
